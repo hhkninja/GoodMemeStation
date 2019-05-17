@@ -1,0 +1,16 @@
+a = (int(input('do you want a meme?'))
+         if a == ('no')
+         break
+         if a == ('yes')
+         b = (int(input('do you want a cat meme or a dog meme?')
+                  if b == ('dog')
+                  print ('we do not do dog memes!')
+                  break
+                  if b == ('cat')
+                  c (int(input('cheeseburger cat meme or grumpy cat meme')
+                         if c == ('cheeseburger')
+                         print ('I can haz cheezeburger?')
+                         if c == ('grumpy cat')
+                         print ('twinkle twinkle little star i want to hit you with a car, throw you off a tree so high hope you break your neck and die.')
+                         
+                         
